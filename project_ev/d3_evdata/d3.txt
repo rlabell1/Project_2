@@ -1,0 +1,3 @@
+d3.json("http://localhost:5000/api/Income").then( data => {
+    console.log(data);
+})
